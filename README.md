@@ -2,7 +2,7 @@
 
 Process mining on a public event log of a loan application process: where cases end, where time is lost, and which manual tasks are candidates for automation.
 
-Author: [Your name] · [Month Year]
+Author: Do Huu Kien
 
 ## Overview
 
